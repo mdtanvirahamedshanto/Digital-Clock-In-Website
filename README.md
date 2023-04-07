@@ -11,7 +11,7 @@ This is a simple digital clock created using JavaScript and CSS giving it beauti
 
 <hr>
 <div align="center">
-    <img src="https://github.com/sanjyotpanure/Digital-Clock-JavaScript/blob/master/images/Digital_Clock.gif" alt="clock gif" />
+    <img src="https://github.com/mdtanvirahamedshanto/Digital-Clock-In-Website/blob/main/images/Digital_Clock.gif" alt="clock gif" />
 </div>
 <hr>
 
